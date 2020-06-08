@@ -1,7 +1,7 @@
 {
-    "name": "donhosting/validateStatus",
-    "description": "Validaciones DonCloud",
-    "keywords": ["validateStatus", "donhosting", "laravel"],
+    "name": "donhosting/statusvalidate",
+    "description": "status validate",
+    "keywords": ["statusvalidate", "donhosting", "laravel"],
     "authors": [
         {
             "name": "DonHosting",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "DonHosting\\validateStatus\\": "src/"
+            "donHosting\\statusvalidate\\": "src/"
         }
     }
 }
