@@ -1,0 +1,21 @@
+{
+    "name": "donhosting/validateStatus",
+    "description": "Validaciones DonCloud",
+    "keywords": ["validateStatus", "donhosting", "laravel"],
+    "authors": [
+        {
+            "name": "DonHosting",
+            "email": "webmaster@donhosting.net",
+            "homepage": "https://donhosting.net"
+        }
+    ],
+    "type": "library",
+    "require": {
+    	"php": ">=7.2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "DonHosting\\validateStatus\\": "src/"
+        }
+    }
+}
